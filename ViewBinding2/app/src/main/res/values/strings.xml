@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="login_sign_in">Sign In</string>
+    <string name="login_username">User name</string>
+    <string name="login_password">Password</string>
+    <string name="main_open_activity">Open Activity</string>
+    <string name="detail_back">Back</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="login_sign_in">Ingresar</string>
+    <string name="login_username">Usuario</string>
+    <string name="login_password">Contraseña</string>
+    <string name="main_open_activity">Abrir Activity</string>
+    <string name="detail_back">Volver</string>
+</resources>
